@@ -1,0 +1,7 @@
+Por favor ingrese el Primer numero, 
+Por favor ingrese el segundo numero,
+Presione una tecla para continuar . . . 
+Su resultado es, 31
+Por favor ingrese el Primer numero, 
+Por favor ingrese el segundo numero,
+Su resultado es, 3.95769e+254
