@@ -1,0 +1,2 @@
+"consultar tama¤o de compilacion usando diferentes compiladores" 
+el archivo mingw_test se uso el comando g++ y en el segundo se uso el comando c++ 
