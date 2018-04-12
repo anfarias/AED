@@ -11,10 +11,12 @@ Jose Maria Sola
 
 int main()
 {
-	
+	#pragma region nombrado_variables
 	//definicion de variables
 	double a;
 	double b;
+
+	#pragma	endregion nombrado_variables	
 
 	//ingreso de datos
 
