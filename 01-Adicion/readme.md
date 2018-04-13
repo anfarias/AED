@@ -44,8 +44,3 @@ A continuacion se detalla en **representacion textual** lo que realizara adicion
 
 [ipo]: ipo.png
 [flujo]: Diag_fluj.png
-
-<br>
-<br>
-<br>
-<br>
