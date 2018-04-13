@@ -1,4 +1,4 @@
-/*Trabajo Practico #02
+/*Trabajo Practico #01
 Suma de dos naturales
 2018-04-13 (YYYY-MM-DD)
 K1051
