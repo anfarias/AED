@@ -12,7 +12,7 @@ Nombre: Andres Sebastian<br />
 ---
 
 <br />
-** _Problema_ **
+_Problema_
 
 <br />
 Obtener del usuario dos numeros y mostrarle la suma<br />
