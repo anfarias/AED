@@ -1,7 +1,7 @@
 # ***Analisis y Estuctura de Datos***
 ###  Trabajo Practico: 01-Adicion
 
-Curso: K1051<\br>
+Curso: K1051<br />
 2018 __
 Legajo: 142-155-4 __
 Apellido: Farias __
