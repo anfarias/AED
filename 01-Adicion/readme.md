@@ -12,8 +12,8 @@ Nombre: Andres Sebastian<br />
 ---
 
 <br />
-Problema
-===
+_**Problema**_
+
 <br />
 Obtener del usuario dos numeros y mostrarle la suma<br />
 <br />
@@ -39,9 +39,9 @@ El siguiente Flujograma muestra la **representacion visual** que realizara adici
 
 A continuacion se detalla en **representacion textual** lo que realizara adicion.cpp
 
-1 - Leer A<br />
-2 - Leer B<br />
-3 - Mostrar A+B<br />
+1. Leer A<br />
+2. Leer B<br />
+3. Mostrar A+B<br />
 
 <br />
 
