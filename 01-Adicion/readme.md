@@ -8,7 +8,7 @@ Apellido: Farias<br />
 Nombre: Andres Sebastian<br />
 ===
 <br />
-#####Problema
+##### Problema
 <br />
 Obtener del usuario dos numeros y mostrarle la suma<br />
 <br />
@@ -26,7 +26,7 @@ La siguiente imagen muestra el IPO descripto para este TP<br />
 <br />
 <br />
 
-El siguiente Flujograma muestra la **representacion visual** que realizara adicion.cpp
+El siguiente Flujograma muestra la **representacion visual** que realizara adicion.cpp<br />
 ![flujo]
 
 <br />
