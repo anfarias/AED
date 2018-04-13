@@ -12,8 +12,8 @@ Nombre: Andres Sebastian<br />
 ---
 
 <br />
-Problema<br />
----
+Problema
+===
 <br />
 Obtener del usuario dos numeros y mostrarle la suma<br />
 <br />
