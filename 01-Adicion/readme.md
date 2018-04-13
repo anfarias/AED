@@ -1,9 +1,9 @@
-# H1 ***Analisis y Estuctura de Datos***_
-### H3 Trabajo Practico: 01-Adicion_
+# ***Analisis y Estuctura de Datos***
+###  Trabajo Practico: 01-Adicion
 
-Curso: K1051_
-2018_
-Legajo: 142-155-4_
-Apellido: Farias_
-Nombre: Andres Sebastian_
+Curso: K1051 __
+2018 __
+Legajo: 142-155-4 __
+Apellido: Farias __
+Nombre: Andres Sebastian __
 
