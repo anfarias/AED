@@ -1,7 +1,8 @@
 /*Trabajo Practico #02
+Suma de dos naturales
 2018-04-13 (YYYY-MM-DD)
 K1051
-Jose Maria Sola
+Farias Andres Sebastian
 142-155-4
 */
 
