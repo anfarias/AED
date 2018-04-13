@@ -1,5 +1,5 @@
-/*Practica de lo visto en la ultima clase 
-2018-04-05 (YYYY-MM-DD)
+/*Trabajo Practico #02
+2018-04-13 (YYYY-MM-DD)
 K1051
 Jose Maria Sola
 142-155-4
@@ -13,8 +13,8 @@ int main()
 {
 	#pragma region nombrado_variables
 	//definicion de variables
-	double a;
-	double b;
+	int a;
+	int b;
 
 	#pragma	endregion nombrado_variables	
 
@@ -28,16 +28,15 @@ int main()
 
 
 	//muestra de resultado
-	std::cout << "Su resultado es, "<< a + b;
-	std::cout << "\n";
-
+	std::cout << "Su resultado es, " << a + b << "\n";
+	
 
 	//finalizacion y vuelta a inicio
 	system("pause");
-	main();
+	
 }
 
-#pragma endregion
+#pragma endregion Code_main
 
 
 
