@@ -8,8 +8,7 @@ Farias Andres Sebastian
 
 
 #include <iostream>
-#include <assert.h>
-#include <string.h>
+#include <cassert>
 #include <string>
 
 #pragma region main
