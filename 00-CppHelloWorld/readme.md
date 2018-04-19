@@ -1,4 +1,4 @@
-***Analisis y Estuctura de Datos***
+***Algoritmo y Estuctura de Datos***
 Curso: K1051
 2018
 Legajo: 142-155-4
