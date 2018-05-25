@@ -12,19 +12,19 @@ Farias Andres Sebastian
 int main (){
 	
 	// Prototipo
-	int POT (int, unsigned)
+	int POT (int, unsigned);
 	
 	// pruebas logicas
-	assert( 1 == POT(1,1)
-	assert( 2 == POT(2,1)
-	assert( 4 == POT(2,2)
-	assert( 8 == POT(2,3)
-	assert( 27 == POT(3,3)
-	assert( 64 == POT(4,3)
-	assert( 256 == POT(4,4)
-	assert( 625 == POT(5,5)
-	assert( 1024 == POT(4,5)
-	assert( 1024 == POT(2,10)
+	assert( 1 == POT(1,1));
+	assert( 2 == POT(2,1));
+	assert( 4 == POT(2,2));
+	assert( 8 == POT(2,3));
+	assert( 27 == POT(3,3));
+	assert( 64 == POT(4,3));
+	assert( 256 == POT(4,4));
+	assert( 625 == POT(5,4));
+	assert( 1024 == POT(4,5));
+	assert( 1024 == POT(2,10));
 	
 }
 
