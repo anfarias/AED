@@ -1,0 +1,52 @@
+Enumeracion C
+	Enum turno {……} turno =mañana;
+
+	
+enumeracion C++
+	enum struct Turno {mañana, tarde, noche};
+	int turno = mañana
+	turno = 3
+	Turno turno = mañana
+	
+	
+
+//usar la palabra struct es para hacer un formato fuerte
+
+Tengo que cursar en funcion del dia y el turno retorne verdadero y falso
+//se cursa lunes y jueves a la noche
+
+IPO
+
+DIAxTurno-->(PROG)-->B
+
+tengoquecursar: dia x turno --> bool
+
+bool tengoquecursar(dia, turno);
+
+assert (tengoquecursar(lunes, noche));
+assert (tengoquecursar(jueves,noche));
+assert (not tengoquecursar (martes, mañana));
+
+
+
+
+
+---------------------------------------------------------------------
+
+(P) U (L) = (PyL) = (Canino)
+
+
+union Canino { 
+	Perro p:
+	Lobo  l:
+	};
+	
+	
+x.l = ghost;
+x.p = lassie;
+
+
+--------------------------------------------------------------------
+
+estudiar struts, son el producto cartesiano, 
+
