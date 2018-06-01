@@ -28,7 +28,7 @@ int main (){
 bool TengoQueCursar (Dia d, Turno t){
 	return  d==Dia::lunes   and t==Turno::noche
 		or
-			d==Dia::Jueves  and t==Turno::noche;
+		d==Dia::Jueves  and t==Turno::noche;
 			
 	}
 	
