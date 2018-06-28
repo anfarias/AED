@@ -1,0 +1,70 @@
+array <punto, 5>;
+p1.at (4).y;
+using Pentagono = array <p,5>;
+Pentagono p2
+-------------------
+struct Pentagono {
+	array <double,5> x,y ;
+	};
+	Pentagono p3;
+	p3.y.at.(4);
+	
+
+-----------------
+
+crear un log in, con usuario y contraseña 
+admin/1234
+
+login.cpp
+
+---------
+
+Void IniciarSesion();
+Void ContarIniciosFallidos();
+
+
+Validar(Usr,pass)?IniciarSesion() : ContarIniciosFallidos() ;
+-----------------------
+
+If (Validar(Usr, Pass) {
+	void IniciarSesion();
+		IniciarSesion();
+		}
+else {
+	void ContarIniciosFallidos();
+		ContarIniciosFallidos();
+		}
+		
+----------------------
+----------------------
+
+FOR
+
+Repeticion ----> recurrencia
+           ---->Itereacion-------->FOR
+						  -------->while
+						  -------->do while
+						  
+						  
+						  
+---------------------------------------
+//////LEER STREAM PACKET Y BLOCK STREAM////////////////
+
+
+void Escribir (string f, unsigned n){
+	for ( unsigned i = 0 ; i < n; ++i);
+		cout <<f << "\n";
+	
+-------------------
+dada una funcion que dado un arreglo de n enteros retorne la sumatoria
+arreglo.cpp
+
+---
+
+dado un arreglo suma solo los positivos
+arreglo.cpp
+
+
+
+------------------------------------------------------
+
