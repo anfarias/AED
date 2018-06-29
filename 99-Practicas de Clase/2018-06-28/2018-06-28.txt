@@ -1,0 +1,7 @@
+Color = {c=(r,g,b)/
+			r,g,b pertenece a N ^
+			r,g,b pertenece a [0,255]}
+
+Color = Byte^3 = byte x byte x byte
+byte = {n/n pertenece N ^ n pertenece a [0, 255]}
+
