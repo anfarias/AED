@@ -1,0 +1,79 @@
+una funcion que detecte la existencia de un valor en un regla
+
+I--> P --> O
+
+a pertenece Z^10 -->IsEnArray---->Bool
+e pertenece Z ----->
+
+Test 
+assert (IsEnArray ({1,2,3,4,5,6,7,8,9,10},7));
+
+Implementacion
+bool IsEnArray( const array<int,10>&, int);
+
+
+bool IsEnArray(const array<int,10>&a, int e) {
+	for(auto i :a )
+		if (i==e)
+			return true;
+	
+	return false;
+	}
+	
+// otra opcion con un for tradicional
+
+	for (int i = 0 ; i<10; ++i)
+		if (a.at(i)==e)
+			return true;
+	
+	return false;
+	
+----------------------------
+
+dada una funcion que retorne el minimo
+
+
+I--> P --> O
+
+a pertenece Z^10 -->GetMin---->Z
+
+Test 
+assert (1== GetMin({1,2,3,4,5,6,7,8,9,10});
+
+Implementacion
+
+
+
+
+
+-----------------------------
+
+Ejercicio 2 trabajo grupal
+
+bool IsConfEnGrupo( const Grupo& string);
+
+bool IsConfEnGrupo (const Grupo& g, string c){
+	for ( auto equipo : g.equipos)
+		if ( c == equipo.confederacion)
+			return true;
+		
+	return false;
+	}
+	
+	
+	
+	
+	
+_________________________________________________________________________________________
+
+SELECCION
+
+leer el de seleccion para mejora el entendimiento
+pero lo mas normal es el de burbuja.
+
+
+el de seleccion selecciona el minimo hasta que quede ordenado
+
+c++ trae un quick sort incluido, pero no lo recomienda el profesor, (01:58:30)
+el de burbuja no lo recomienda por la dificultad.
+
