@@ -1,0 +1,33 @@
+Sumar dos diagonales de una matriz
+
+
+I-->P-->O
+
+m€(Z^NxN-->P-->s€Z
+
+
+1-hacer la matriz
+2-sumar la diagonal
+3-mostrar la sumar
+
+1-leer matriz
+2-mostrar suma de matriz
+
+
+using MatrizCuadrada4 = array<array<int,4>,4>;
+MatrizCuadrada4 x;
+
+MatrizCuadrada4 LeerMatriz();
+int SumarDiagonales (const MatrizCuadrada4 &m);
+
+--------------
+ir al .h
+
+
+////////////////////////////////////////////////////////////////////////
+
+Get (a,i)=a¬i
+Set (a,i,v)=a'
+
+SecDin ={ x/x € Z^*}
+
