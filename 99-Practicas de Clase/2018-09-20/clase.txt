@@ -1,0 +1,31 @@
+Trbajo a realizar Secuencia Dinamica
+	Especificacion---->README.MD
+		Valores 
+		Operaciones
+		
+	Implementacion
+		Publica    Sec Din.h    Sec DinTest.cpp
+		Privada    secdin.cpp
+_______________________________________
+Tipo SecDin = (SecDin, Operaciones SecDin)
+Operaciones SecDin ={Get, Set, Insertar, Remover, Longitud}
+SecDin = Z* = {s/s = (s0, s1, s2, sn-1), s	€ Z }
+
+_______________________________________	
+		
+		
+		
+Get       : Z* x N0         --> Z   /Get(s,i)=Si
+Set       : Z* x N x Z      --> Z*  /Set(s,i,v)=S'*
+Instertar : Z* x N x Z		--> Z*  /Insertar (s,i,v) = S', i<= n
+Remover   : detallar por nosotros como alumnos
+Longitud  : Z*              --> N   /Lingitud (S)=|s|
+
+
+----------------------------------------
+SecDinTest.cpp
+
+
+
+
+ESTUDIAR PILA Y COLA
