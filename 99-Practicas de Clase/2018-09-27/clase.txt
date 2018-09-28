@@ -1,0 +1,15 @@
+Pila 
+orden inamovible entra primero sale ultimo
+pushear y popear
+
+
+
+
+
+Cola
+orden inamovible entra primero sale primero
+
+
+leer modulo N
+arreglo circular
+
