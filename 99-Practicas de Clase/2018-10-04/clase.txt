@@ -1,0 +1,208 @@
+Trabajo 13
+Diagonal  de una matriz
+
+trabajo para aprobar la cursada
+
+
+
+trabajo 14
+Secuencia dinamica - implementacion contigua
+la especificacion tienen que estar en el readme secdin.md
+
+
+trabajo 15 (opcional)
+pero a meterle
+
+Trabajo 16
+especificacion matematica
+stack.md la especificacion
+stackcont.cpp el desarrollo de push y pop
+con programa de pureba incluido
+
+
+trabajo 17
+enqueue dequeue
+
+
+Trabajo 18
+secdin igual al tp 14
+
+
+Trabajo 19
+reusar trabajo del 16
+
+
+trabajo 20
+reusar archivos del 17
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////
+
+
+Puntero es una variable que guarda direccion en memoria
+
+Direccion de memoria, es el comienzo de un bloque
+
+Tipo de Direccion de Memoria = (V, O)     v = Natural // Operaciones = adicion de direcciones mas offset, y resta con el offset,
+																	   =, <, >, =/=, >=, <=
+																	   desreferenciar
+																	   
+
+
+Ejemplo 
+int i =42
+i--> 42, int
+i+1-->43, int
+i*0-->0, int
+&i-->7, int*                   (& es un operador/unario/, que da la direccion de memoria del objeto que tiene a su derecha)
+
+
+Ejemplo 2
+
+int i=42
+int* pi
+pi=&i 
+pi-->7, int*
+pi==&i True, bool
+*pi-->42, int
+*pi+1-->43, int
+
+
+-------------------------
+
+Tiempos de Reserva
+
+Reserva Estatica-->lo que se viene haciendo, y ya esta definida en tiemp ode compilacion
+
+Reserva Dinamina-->permite pedir mas memria en tiempo de ejeccion, 
+	operador new (recibe un tipo de dato)
+			new int (da como resultado un puntero de memoria para un int (int*))
+			
+			
+Ejemplo 1
+for (;;)
+	int i = 42
+	
+	
+Ejemplo 2
+for (;;)
+	new int;
+	
+	
+Ejemplo 3
+for (;;) {
+	int* pi = new int;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+///////////////////////////////////////////////////////////////////////
+
+Para la proxima clase
+
+Resolver TPs y emepezar a tener consultas
+Estudiar Stack y Heap
+		
+		
+		
+		_____________
+		|			|
+		|			|
+		|			|
+		|			|
+		|			|
+		|			|
+		|			|
+		|			|  Heap
+		|-----------|
+		|			|
+		|Estatica	|
+		|Codigo		|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
